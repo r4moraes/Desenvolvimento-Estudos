@@ -7,7 +7,7 @@ Repositório criado para acompanhar o progresso nos estudos.
 
 ## Composição:
 
-- Módulo 0 e 1 - Introdução 
+- Módulo 0 e 1 - Introdução :heavy_check_mark:
 
 - Módulo 2 - HTML/CSS3/JS
 
